@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+pymilvus
+deepeval
+pytest
+arize-phoenix
+openinference-instrumentation-langchain
+pydantic
+python-dotenv
